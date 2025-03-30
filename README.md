@@ -1,6 +1,6 @@
 
 # IBKR-QA-Automation-Assignment
-## Used
+# Used
 
 - Java 17
 - Selenium WebDriver
@@ -11,13 +11,13 @@
 
 
 
-##  Task 1 – Login & Institution Search
+#  Task 1 – Login & Institution Search
 
 - Automates login using test credentials.
 - Searches for “Citibank”.
 - Verifies "Costco Wholesale Credit Card" appears under “Other” section 
 
-##  Task 2 – Offline Account Creation
+#  Task 2 – Offline Account Creation
 
 - Automates creation of 5 different offline accounts:
   - Brokerage
